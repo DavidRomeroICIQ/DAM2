@@ -13,7 +13,7 @@ Benvingut/da al repositori de l'assignatura **Accés a Dades**. Aquest document 
 
 | Unitat / Tema | Exercici / Projecte | Descripció ràpida | Enllaç directe |
 | :--- | :--- | :--- | :---: | 
-| **RA1: Fitxers** | Fitxers i Serialització | Lectura i escriptura en fitxers `.txt`, `.bin`, `.xml` i `.json`. | [Anar a la pràctica](./RA1/README.MD) | 
+| **RA1: Fitxers** | Fitxers i Serialització | Lectura i escriptura en fitxers `.txt`, `.bin`, `.xml` i `.json`. | [Anar a la RA1](./RA1/README.MD) | 
 
 ---
 
