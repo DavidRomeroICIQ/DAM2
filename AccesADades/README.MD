@@ -1,8 +1,9 @@
 # Accés a Dades — Índex d'Exercicis i
 
 **Alumne/a:** David Romero San Millán
+
 **Curs:** DAM2B - 2026/2027  
-**Professor/a:** Gerard Porto 
+**Professor:** Gerard Porto 
 
 Benvingut/da al repositori de l'assignatura **Accés a Dades**. Aquest document serveix com a guia de navegació per accedir de forma ràpida a cadascuna de les pràctiques lliurades.
 
