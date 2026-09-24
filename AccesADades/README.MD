@@ -11,7 +11,7 @@ Benvingut/da al repositori de l'assignatura **Accés a Dades**. Aquest document 
 
 ## Navegador de Continguts
 
-| Unitat / Tema | Descripció | Enllaç directe |
+| Unitat | Descripció | Enllaç directe |
 | :--- | :--- | :---: | 
 | **RA1: Fitxers** | Lectura i escriptura en fitxers `.txt`, `.bin`, `.xml` i `.json`. | [Anar a la RA1](./RA1/README.MD) | 
 
