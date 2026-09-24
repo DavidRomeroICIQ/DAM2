@@ -1,6 +1,6 @@
-# Accés a Dades — Índex d'Exercicis i
+# Accés a Dades — Índex de RA
 
-**Alumne/a:** David Romero San Millán
+**Alumne:** David Romero San Millán
 
 **Curs:** DAM2B - 2026/2027  
 **Professor:** Gerard Porto 
